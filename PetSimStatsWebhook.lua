@@ -1,11 +1,6 @@
 -- Created by iOwn_You#0622
 
 
-local YourWebHookHere =  "https://discord.com/api/webhooks/882214133993459743/5wjpogCpzcTMirlNPCuOwzA2xsjUlP0YQVw0Os1aBOmdBavfW6cigKEbmSAcNIjh3TNV"  -- web hook here
-_G.StatsEnabled = true  
-
-
-
 _Pv0BATmBOMkkoF59, Protected_by_MoonSecV2, Discord = 'discord.gg/gQEH2uZxUk'
 
 
